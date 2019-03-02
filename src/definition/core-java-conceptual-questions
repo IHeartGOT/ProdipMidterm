@@ -102,10 +102,11 @@ A.  Having methods with the same name. It's used when there are methods that fun
 
 Explain exceptions in java and how to handle it.
 
-A.
+A.  An exception is an event, which occurs during the execution of a program,
+    that disrupts the normal flow of the program's instructions.
 
 What is static keyword in java? How it has been used in variables and methods ?
-A.
+A.  Static members belong to the class instead of a specific instance.
 
 What is final and how it has been used variables and methods?
 A.
