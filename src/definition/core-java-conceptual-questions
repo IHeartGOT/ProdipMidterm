@@ -74,21 +74,34 @@ A.  Keyword in object-oriented languages that set the accessibility of classes, 
 
 What is OOP ? Define each feature of java OOP.
 
-A.
+A.  -Object Oriented Programming.
+    -Features: Classes, Abstraction, Encapsulation, Inheritance, Polymorphism.
 
 What is Java Package and which package is imported by default?
-A.
+
+A.  -Package in Java is used to encapsulate a group of classes, sub packages and interfaces. It prevents naming conflicts,
+    makes searching and locating easier and provides controlled access.
+    -Three packages are imported by default for each source file. First, the package with no name.
+    Second, the java.lang package. And third, the current package (the package in which the current file is defined).
 
 What is API? Name list of API that you have used so far.
-A.
+
+A.  -Application Programming Interface is a set of definitions,
+    communication protocols and tools for building software.
+    -Scanner, String, Math, Random, etc.
 
 Does java support multiple inheritance, explain why or why not?
-A.
+
+A.  - No... I am sure you are looking at this answer especially. =)
+    - To avoid ambiguity error java does not support multiple inheritance through class.
 
 What is method overloading and when it happens?
-A.
+
+A.  Having methods with the same name. It's used when there are methods that functions by doing the same thing.
+
 
 Explain exceptions in java and how to handle it.
+
 A.
 
 What is static keyword in java? How it has been used in variables and methods ?
