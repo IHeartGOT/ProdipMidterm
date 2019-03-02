@@ -1,23 +1,38 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
 
-
-
+A. A programming language is a vocabulary and set of grammatical rules for
+instructing a computer or computing device to perform specific tasks.
 
 What jdk contains or composed of and define each components?
-A.
 
-
-
-
+A. Java Compiler: Reads class and interface definitions and compiles them into bytecode class files.
+   Java Interpreter: Interprets the .class Java files that have been compiled by Java compiler.
+   Java Disassembler: Disassembles one or more class files.
+   Java Header File Generator: Generates header and source files that are needed to implement native methods.
+   Java Documentation: Helps to maintain code with proper documentation.
+   Java Debugger: Provides inspection and debugging of a local or remote Java Virtual Machine.
 
 What is IDE?
+
 A. Integrated Development Environment
 
 What are the IDEs available in the market to support java?
+
+Eclipse, IntelliJ and others.
+
 Explain the entire java life cycle.
+
+A.
+- Any text editor can be used to create the high-level Java text file.
+- File is saved as a .java file on the disk.
+- Compile this text file using the Java compiler
+- .class file being created on the disk. The .class file contains the bytecodes.
+- file is loaded into memory by the class loader.
+- bytecode verifier confirms bytecodes are valid and not hostile.
+- JVM reads the bytecodes in memory and translates them into machine code.
+
 what is class?
 What is object?
 What is the entry point of an application?
