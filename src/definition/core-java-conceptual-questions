@@ -179,111 +179,131 @@ A.  -JVM is important part of both JDK and JRE because it is contained or inbuil
 
 What is compile time and run time?
 
-A.
+A.  -Compile time describes the event when the compiler builds the program.
+    -Runtime describes the event when a program is running.
 
 What is heap?
 
-A.
+A.  Is memory set aside for dynamic allocation.
 
 How java manage it's memory?
 
-A.
+A.  It has a garbage collector that works in the background to clean up
+    the unused objects and free up some memory.
 
 What is the difference between String, StringBuffer and StringBuilder?
 
-A.
+A.  -Objects of String are immutable
+    - Objects of StringBuffer and StringBuilder are mutable.
+    - StringBuffer and StringBuilder are similar
+    - StringBuilder is faster and preferred over StringBuffer for single
+    threaded program.
+    -If thread safety is needed then StringBuffer is used.
 
 What is Singleton class?
 
-A.
+A.  Class that allows only a single instance of itself to be created and gives access to that created instance.
 
 What is Serialization and Deserialization?
 
-A.
+A.  -Serialization is a mechanism of converting the state of an object into a byte stream.
+    -Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory.
 
 when to use transient variable in java?
 
-A.
+A.  A keyword which marks a variable not to be serialized when it is persisted to streams of bytes.
 
 Difference between while and do..while loop?
 
-A.
+A.  -while loop tests the condition before the code within the block is executed
+    -do-while loop is an exit-condition loop
 
 What is Enum?
 
-A.
+A.  It is a special data type that enables for a variable to be a set of predefined constants.
 
 What is Iterator?
 
-A.
+A.  Iterator is used in Collection framework to retrieve elements one by one.
 
 Which one will take more memory, an int or Integer?
 
-A.
+A.  Integer
 
 Why is String Immutable in Java?
 
-A.
+A.  For efficiency and security reasons.
 
 What is constructor chaining in Java?
 
-A.
+A.  The process of calling one constructor from another constructor
+    with respect to current object.
 
 The difference between Serial and Parallel Garbage Collector?
 
-A.
+A.  Serial Garbage Collector works by holding all the application threads but Parallel Garbage Collector uses
+    multiple threads for garbage collection.
 
 What is JIT stands for?
 
-A.
+A.  Just-In-Time
 
 Explain Java Heap space and Garbage collection?
 
-A.
+A.  When a Java program starts JVM gets some memory from Operating System. JVM
+    uses this memory for all its need and part of this memory is called java heap memory or Heap space.
+    All those objects which are no longer in use Garbage collector destroys these objects.
+    Main objective of Garbage Collection is to free heap memory.
 
 Can you guarantee the garbage collection process?
 
-A.
+A.  No
 
 What is the difference between stack and heap in Java?
 
-A.
+A.  Stack memory is used to store local variables and functions while heap memory is used to store objects in Java.
 
 What is reflection in java and why is it useful?
 
-A.
+A.  It is useful because it allows us to examine a class to see what methods, members, interfaces etc. that it
+    contains or implements.
 
 what is multithreading in java?
 
-A.
+A.  It is a process of executing multiple threads simultaneously.
 
 What is the use of synchronization in Java?
 
-A.
+A.  Synchronization guarantees that no two threads can execute a synchronized method which requires the same lock
+    simultaneously or concurrently.
 
 What is Framework?
 
-A.
+A.  It is a large body containing many classes that include prewritten codes where we can add our own code to
+    solve a problem in a specific domain.
 
 What are the testing Framework available in java?
 
-A.
+A.   JUnit, TestNG, etc.
 
 Difference between jUnit and testNG?
 
-A.
+A.  TestNG cover the entire core JUnit functionality and even more. TestNG is more advance in parameterize testing,
+    dependency testing and suite testing. TestNG is meant for high-level testing and complex integration test.
 
 What are the dependencies for this project?
 
-A.
+A.  mysql connector, mongo java driver and testing.
 
 what is dependency injection in java?
 
-A.
+A.  Is a way to achieve Inversion of control (IoC) in applications by moving objects
+    binding from compile time to runtime.
 
 What is static binding and dynamic binding?
 
-A.
+A.  -Static binding uses Class information for binding
+    -Dynamic binding uses Object to resolve binding.
 
 
 
