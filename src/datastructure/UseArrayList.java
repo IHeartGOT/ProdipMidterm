@@ -10,7 +10,7 @@ public class UseArrayList {
 		 * Store all the sorted data into one of the databases.
 		 * 
 		 */
-				List<Integer> list = new ArrayList<Integer>();
+				List<Integer> list = new ArrayList();
 				list.add(11);
 				list.add(20);
 				list.add(25);
