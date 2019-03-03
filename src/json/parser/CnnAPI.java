@@ -6,7 +6,7 @@ public class CnnAPI {
       https://newsapi.org/s/cnn-api
 
       Fetch This following CNN API, It will return some news in Json data. Parse this data and construct
-      https://newsapi.org/v2/top-headlines?sources=cnn&apiKey=YOUR_API_KEY
+      https://newsapi.org/v2/top-headlines?sources=cnn&apiKey=5133d895398a4f0fb198b80c9762d89b
 
       MY_API_KEY=0d9e35dfa3c140aab8bf9cdd70df957f
 
