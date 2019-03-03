@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf125068-80bd-41d7-926e-f856450ecbd3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingExamJanuary2019/datastructure/CollectionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingExamJanuary2019/datastructure/CollectionView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/CollectionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/secret.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/datastructure/CollectionView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="23" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="23" />
               <folding>
                 <element signature="e#368#385#0" expanded="true" />
               </folding>
@@ -76,43 +68,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/databases/ConnectToSqlDB.java">
+        <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="313">
+              <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/UseArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#441#450#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="108" column="70" selection-start-line="108" selection-start-column="70" selection-end-line="108" selection-end-column="70" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codelab/status/CsvReader.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-444">
-              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codelab/status/roster-file-03-02-2019.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
+        <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="94" lean-forward="true" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="98" />
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -129,11 +127,13 @@
         <option value="$PROJECT_DIR$/src/secret.properties" />
         <option value="$PROJECT_DIR$/src/algorithm/Numbers.java" />
         <option value="$PROJECT_DIR$/src/json/parser/JsonReaderUtil.java" />
-        <option value="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
         <option value="$PROJECT_DIR$/src/databases/ConnectToSqlDB.java" />
         <option value="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/math/problems/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/datastructure/CollectionView.java" />
+        <option value="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
+        <option value="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
       </list>
     </option>
   </component>
@@ -222,7 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551571491593" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551574914748" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -240,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionView">
+  <component name="RunManager" selected="Application.UseQueue">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -254,20 +254,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
-      <module name="CodingExamJanuary2019" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,20 +275,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonReaderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="json.parser.JsonReaderUtil" />
-      <module name="CodingExamJanuary2019" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="json.parser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.problems.PrimeNumber" />
       <module name="CodingExamJanuary2019" />
@@ -310,6 +282,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="math.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
+      <module name="CodingExamJanuary2019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.UseQueue" />
+      <module name="CodingExamJanuary2019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,19 +348,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JsonReaderUtil" />
-      <item itemvalue="Application.ConnectToSqlDB" />
       <item itemvalue="Application.PrimeNumber" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.CollectionView" />
+      <item itemvalue="Application.UseArrayList" />
+      <item itemvalue="Application.UseQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseQueue" />
+        <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.CollectionView" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.ConnectToSqlDB" />
-        <item itemvalue="Application.JsonReaderUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -452,27 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/json/parser/JsonReaderUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -495,13 +474,6 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="94" lean-forward="true" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="108" column="70" selection-start-line="108" selection-start-column="70" selection-end-line="108" selection-end-column="70" />
         </state>
       </provider>
     </entry>
@@ -555,11 +527,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/CollectionView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="23" />
           <folding>
             <element signature="e#368#385#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/definition/core-java-conceptual-questions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/UseArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#441#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>

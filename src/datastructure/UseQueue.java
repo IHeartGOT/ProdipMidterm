@@ -1,4 +1,5 @@
 package datastructure;
+import java.util.*;
 
 public class UseQueue {
 
@@ -9,6 +10,14 @@ public class UseQueue {
 		 * 
 		 */
 
-	}
+			Queue<String> queue = new LinkedList();
+			queue.add("NY");
+			queue.add("PA");
+			queue.add("NJ");
+			queue.add("FL");
 
-}
+			System.out.println(queue.peek());
+			System.out.println(queue.remove());
+			System.out.println(queue.peek());
+		}
+	}

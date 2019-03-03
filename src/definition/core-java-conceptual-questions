@@ -106,127 +106,183 @@ A.  An exception is an event, which occurs during the execution of a program,
     that disrupts the normal flow of the program's instructions.
 
 What is static keyword in java? How it has been used in variables and methods ?
-A.  Static members belong to the class instead of a specific instance.
+
+A.  Static is a non-access modifier in Java which is applicable for the following:
+    blocks; variables; methods; nested classes.
+    Static method belong to the class instead of an object of class.
+    Static variables are initialized only once, at the start of the execution.
+
 
 What is final and how it has been used variables and methods?
-A.
+
+A.   -It is used to define an entity that can only be assigned once.
+     -It can only be initialized once and a final method cannot be overridden.
 
 What is final, finally and finalize?
-A.
 
-What is a constructor ?
-A.
+A.  final - value of final variables cannot be changed once initialized. Final class cannot be subclassed. Final
+    method cannot be overridden.
+
+    finally - keyword is used in association with a try/catch block and guarantees that a section of code will be executed,
+    even if an exception is thrown.
+
+    finalize - is a method that performs clean-up activity. The Garbage Collector always calls it just before the
+    deleting or destroying the object which is eligible for Garbage Collection.
+
+What is a constructor?
+
+A.  -Block of code similar to a method that's called when an instance of an object is created.
 
 Can we have multiple constructors in a class?
-A.
+
+A.  Yes ofcourse
 
 If we don't have a constructor declared, what is called during the object creation?
-A.
+
+A.  Class
 
 What is "this" keyword in java ?
-A.
+
+A.  Variable referring to the current object.
 
 What is "super" keyword in java? How many possible way can you use?
-A.
+
+A.  Refer parent class objects. We can use it two ways.
 
 What is JVM stand for ?
+
 A.  Java Virtual Machine
 
 Is JVM platform independent?
-A.
+
+A. Yes
 
 What version of java are you using?
 
 A. 1.8.0_201
 
 What is JAR stand for ?
-A.
+
+A.  Java ARchive
 
 What is the difference between JDK and JVM?
-A.
+
+A.  -JDK provides the environment to develop and execute the Java program.
+    -JVM is part of the JDK and it is responsible for executing the java program line by line.
 
 What is the difference between JVM and JRE?
-A.
+
+A.  -JVM is important part of both JDK and JRE because it is contained or inbuilt in both.
+    -JRE is an installation package which provides environment to only run(not develop) the
+    java program(or application)onto your machine.
+
 
 What is compile time and run time?
+
 A.
 
 What is heap?
+
 A.
 
 How java manage it's memory?
+
 A.
 
 What is the difference between String, StringBuffer and StringBuilder?
+
 A.
 
 What is Singleton class?
+
 A.
 
 What is Serialization and Deserialization?
+
 A.
 
 when to use transient variable in java?
+
 A.
 
 Difference between while and do..while loop?
+
 A.
 
 What is Enum?
+
 A.
 
 What is Iterator?
+
 A.
 
 Which one will take more memory, an int or Integer?
+
 A.
 
 Why is String Immutable in Java?
+
 A.
 
 What is constructor chaining in Java?
+
 A.
 
 The difference between Serial and Parallel Garbage Collector?
+
 A.
 
 What is JIT stands for?
+
 A.
 
 Explain Java Heap space and Garbage collection?
+
 A.
 
 Can you guarantee the garbage collection process?
+
 A.
 
 What is the difference between stack and heap in Java?
+
 A.
 
 What is reflection in java and why is it useful?
+
 A.
 
 what is multithreading in java?
+
 A.
 
 What is the use of synchronization in Java?
+
 A.
 
 What is Framework?
+
 A.
 
 What are the testing Framework available in java?
+
 A.
 
 Difference between jUnit and testNG?
+
 A.
 
 What are the dependencies for this project?
+
 A.
 
 what is dependency injection in java?
+
 A.
 
 What is static binding and dynamic binding?
+
 A.
 
 
