@@ -1,4 +1,6 @@
 package datastructure;
+import java.util.HashMap;
+import java.util.Map;
 
 public class UseMap {
 
@@ -10,7 +12,18 @@ public class UseMap {
 		 *
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 */
+		Map<String,String> map = new HashMap<>();
+		map.put ("USA", "New York");
+		map.put ("CANADA", "Montreal");
+		map.put ("BANGLADESH", "Dhaka");
+		map.put ("AUSTRALIA", "Malborn");
+
+		System.out.println(map.get("USA"));
+		System.out.println(map.get("CANADA"));
+		System.out.println(map.get("BANGLADESH"));
+		System.out.println(map.get("AUSTRALIA"));
+
 
 	}
-
 }
+

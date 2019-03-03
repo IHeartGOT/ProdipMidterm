@@ -8,7 +8,6 @@ public class Pattern {
 		 *
 		 *
 		 */
-
 		int counter = 1, j = 0;
 		int number = 100;
 		int[] array = new int[100];
