@@ -13,11 +13,9 @@ public class Factorial {
          */
         int n = 5;
 
-        // Recursion :
         int r = factorial(n);
         System.out.println("Recursion = " + r);
 
-        // Iteration :
         int i = 1;
         for (int j = 1; j <= n; j++) {
             r = i * i;

@@ -8,8 +8,18 @@ public class Pattern {
 		 *
 		 *
 		 */
-		
 
-
+		int counter = 1, j = 0;
+		int number = 100;
+		int[] array = new int[100];
+		while (number > 0) {
+			for (int i = 0; i < 10; i++) {
+				System.out.println(number);
+				array[j] = number;
+				number = number - counter;
+				j++;
+			}
+			counter++;
+		}
 	}
 }
