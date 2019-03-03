@@ -1,4 +1,5 @@
 package string.problems;
+import java.util.*;
 
 public class Palindrome {
     public static void main(String[] args) {
@@ -6,22 +7,25 @@ public class Palindrome {
           If a String is reversed and it remains unchanged, that is called Palindrome. For example, MOM,DAD,MADAM are
           Palindrome. So write java code to check if a given String is Palindrome or not.
          */
-        System.out.println(isPalindrome("bob"));
-        System.out.println(isPalindrome("dad"));
-        System.out.println(isPalindrome("america"));
-    }
 
+        String a, b="";
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter a word to check if it is a Palindrome: ");
+        String p = input.nextLine();
+        int n = p.length();
 
-    public static boolean isPalindrome(String x){
-        if (x.length() <= 1){
-            return true;
+        for(int i = n - 1; i >= 0; i--)
+        {
+             b =  b + p.charAt(i);
         }
-        if (x.charAt(0) == x.charAt(x.length()-1)){
-            return isPalindrome(x.substring(1,x.length()-1));
-        }else {
-            return false;
+        if(p.equalsIgnoreCase(b))
+        {
+            System.out.println(p+" is palindrome.");
         }
-
+        else
+        {
+            System.out.println(p+ " is not palindrome.");
+        }
     }
 }
