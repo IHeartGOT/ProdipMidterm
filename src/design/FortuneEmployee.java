@@ -1,6 +1,6 @@
-package design;
+/*p*//*ackage design;
 
-public class FortuneEmployee {
+public class FortuneEmployee {*/
 
 	/**
 	 * FortuneEmployee class has a main methods where you will be able to create Object from
@@ -13,10 +13,29 @@ public class FortuneEmployee {
 	 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 	 *
 	 **/
-	public static void main(String[] args) {
-		
+	/*public static void main(String[] args) {
 
+		EmployeeInfo e1 = new EmployeeInfo("name", 101);
+		e1.getDept("Dev");
+		//e1.farewell(01/01/2001);
+		e1.setSalary(50000.00);
+		e1.setEmployeeId(101);
+		e1.setGender('F');
+		e1.setName("Smith");
+
+		EmployeeInfo e2 = new EmployeeInfo("Prodip", 101, "QA", 55000.00, 'M');
+		e2.farewell();
+		e2.annualSalary();
+		e2.employeeName();
+		e2.assignDepartment();
+		e2.calculateSalary();
+		e2.getGender();
+
+		EmployeeInfo.calculateEmployeePension();
+		EmployeeInfo.calculateEmployeeBonus(10, 45000.00);
+		EmployeeInfo.setCompanyName("PNT");
 
 	}
 
 }
+*/
