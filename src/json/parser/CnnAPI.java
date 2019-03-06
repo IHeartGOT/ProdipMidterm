@@ -143,29 +143,6 @@ public class CnnAPI {
         List l8 = listofpub;
         List l9 = listofcon;
 
-     /*   ConnectToSqlDB connectToSqlDB = new ConnectToSqlDB();
-// Inserting Data into MySql
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l1, "tbl_json1", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l2, "tbl_json2", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l3, "tbl_json3", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l4, "tbl_json4", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l5, "tbl_json5", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l6, "tbl_json6", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l7, "tbl_json7", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l8, "tbl_json8", "data");
-        connectToSqlDB.insertDataFromArrayListToSqlTableforString(l9, "tbl_json9", "data");
-// Reading data from MySql
-        System.out.println(connectToSqlDB.readDataBase("tbl_json1", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json2", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json3", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json4", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json5", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json6", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json7", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json8", "data"));
-        System.out.println(connectToSqlDB.readDataBase("tbl_json9", "data"));
-    }
-*/
 
-}
+    }
 }
